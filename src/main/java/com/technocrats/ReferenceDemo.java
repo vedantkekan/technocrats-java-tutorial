@@ -15,6 +15,6 @@ public class ReferenceDemo {
 
     private static void catMakeover(Cat first) {
         first.name = "Luna"; // modify cat name to "luna"
-        first = new Cat("toto");
+     //   first = new Cat("toto");
     }
 }
